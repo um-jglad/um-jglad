@@ -1,4 +1,7 @@
-## Hi there 👋
+## Howdy 🤠
+
+My name is Jacob, I'm a Systems Administrator and support person for Linux HPC clusters at the University of Michigan in the School of Public Health, Biostatistics Department.
+
 
 <!--
 **um-jglad/um-jglad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
