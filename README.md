@@ -1,6 +1,6 @@
 ## Howdy 🤠
 
-My name is Jacob, I'm a Systems Administrator and support person for Linux HPC clusters at the University of Michigan in the School of Public Health, Biostatistics Department.
+My name is Jacob, I'm the former Systems Administrator for the Biostat cluster (RIP 2026) and provide research computing support for HPC clusters at the University of Michigan in the School of Public Health.
 
 
 <!--
